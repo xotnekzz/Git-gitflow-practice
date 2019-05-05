@@ -6,5 +6,6 @@ public class GitFlowTest1 {
 		
 		System.out.println("Hello");
 		System.out.println("신규개발");
+		System.out.println("릴리즈 버그수정");
 	}
 }
