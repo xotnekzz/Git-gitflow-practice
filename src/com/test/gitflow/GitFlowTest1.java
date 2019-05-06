@@ -9,6 +9,7 @@ public class GitFlowTest1 {
 		System.out.println("신규개발2");
 		System.out.println("신규개발3");
 		System.out.println("신규개발3");
+		System.out.println("릴리즈 반영");
 		
 	}
 }
