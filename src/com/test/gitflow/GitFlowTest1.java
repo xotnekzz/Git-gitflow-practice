@@ -8,6 +8,7 @@ public class GitFlowTest1 {
 		System.out.println("신규개발");
 		System.out.println("신규개발2");
 		System.out.println("신규개발3");
-
+		System.out.println("신규개발3");
+		
 	}
 }
